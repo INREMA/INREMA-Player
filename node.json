@@ -66,7 +66,7 @@
         "name": "fallback",
         "type": "resource",
         "valid": ["image", "video"],
-        "default": "no-content-inrema.jpg"
+        "default": "no-content-info-beamer.jpg"
     }, {
         "title": "Music Asset",
         "ui_width": 4,
