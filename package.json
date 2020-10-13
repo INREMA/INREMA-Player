@@ -1,7 +1,7 @@
 {
     "name": "INREMA-Player",
     "author": "Oliver Regenbrecht <o.regenbrecht@inrema.de>",
-    "desc": "A schedulable playlist player with custom pages, plugins and animations",
+    "desc": "Das Standard-Package von INREMA. Einfache Playlists mit Videos und Bildern erstellen, welche zeitlich gesteuert werden können.",
     "repository": "https://github.com/INREMA/INREMA-Player",
     "version": "beta17",
     "lifecycle": "production",
