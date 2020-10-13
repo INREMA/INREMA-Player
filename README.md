@@ -16,7 +16,7 @@ This package can work offline, but only if some features are not used:
 
 ## Changelog
 
-### Version 18
+### Version beta18
 
  * Added "Copy" button to copy a page.
  * Click on an image/video filename in the tile list to change the assets.
