@@ -25,7 +25,7 @@
         "ui_width": 3,
         "name": "query",
         "type": "string",
-        "default": "infobeamer"
+        "default": "INREMA"
     }, {
         "title": "Number of tweets",
         "ui_width": 3,
